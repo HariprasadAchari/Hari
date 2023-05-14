@@ -1,6 +1,5 @@
 *{  
-    font-family: 'Alegreya SC', serif;
-    font-family: 'Sriracha', cursive;
+  font-family: 'Kalam', cursive;
     text-transform: uppercase;
     margin: 0;
     padding: 0;
@@ -30,7 +29,7 @@ html{
     border-radius: 100%;  
 }
 h1{
-    padding-top: 5%;
+    padding-top: 8%;
     padding-left: 5%;
     padding-right: 5%;
     font-size: 30px;
@@ -38,7 +37,7 @@ h1{
 }
 
 
-h3{   padding-top: 3%;
+h3{   padding-top: 10%;
     padding-left: 10%;
     padding-right: 10%;
     font-size: 15px;
@@ -56,7 +55,7 @@ hr{
 .media{
 
   justify-content: space-evenly;
-  padding-top:10px;
+  padding-top:30px;
   align-items: center;
   font-size: 30px;
 }
@@ -77,6 +76,6 @@ hr{
   color: blue;
 }
 footer{
-    padding-top: 2%; 
+    padding-bottom: 10%; 
     font-size: 15px;
 }
