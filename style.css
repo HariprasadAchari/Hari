@@ -156,6 +156,25 @@ border-radius: 5px;
   box-shadow: 0 0 20px black;
   transform: translateX(0px);
 }
+.card1{
+  flex: 1 1 250px;
+  max-width: 300px;
+  
+  padding: 50px 20px;
+  margin: 20px;
+  text-align: center;
+  transition:  all 0.3s;
+  cursor: pointer;
+  border-radius: 20px !important;
+
+}
+
+.card1:hover{
+  border-color:red !important;
+  border-radius:15px;
+  box-shadow: 0 0 30px blue;
+  transform: translateX(0px);
+}
 img{
   display: block;
   width: 150px;
@@ -182,7 +201,35 @@ img{
   line-height: 1.6;
 
 }
+.card-body{
+  flex: 1 1 250px;
+  max-width: 300px;
+  padding: 50px 20px;
+  margin: 20px;
+  text-align: center;
+  transition:  all 0.3s;
+  cursor: pointer;
+  border-radius: 20px !important;
+  
 
+}
+.card1-title{
+
+  padding-top: 25%;
+  text-transform: capitalize;
+  font: bolder;
+  color: steelblue;
+}
+.card1-text{
+ text-transform: capitalize;
+ color: black;
+ padding-top: 10%;
+
+}
+.card-img-top{
+  width: 100%;
+  height: auto;
+}
 <!-------------------------work------------------>
  .maxpro{
   text-transform: uppercase !important;
@@ -202,6 +249,47 @@ img{
   display: block;
   transform: translateY(45px);
 }
+.max1{
+
+  margin-top: 90px;
+  color: rgb(128, 219, 255);
+  text-transform:uppercase;
+  padding-left: 120px;
+  font-size: 30px;
+}
+.max1::before{
+ 
+  content: '';
+  background: rgb(12, 12, 12);
+  height: 3px; width: 300px !important;
+  display: block;
+  transform: translateY(45px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .contact1 {
   font-size: 50px;
