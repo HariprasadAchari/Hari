@@ -35,6 +35,15 @@ h1{
     font-size: 30px;
     color: black; 
 }
+.info h1{
+  font-size: 100px;
+  text-transform: capitalize;
+  color: black;
+  margin-bottom: 8px;
+  }
+  .hari {
+    color:#ff4321;
+  }
 
 
 h3{   padding-top: 10%;
