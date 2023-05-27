@@ -84,7 +84,7 @@ text-decoration: none !important;
 text-transform: capitalize;
 display: inline-block;
 margin: 15px 0;
-border-radius: 5px;
+border-radius: 25px;
 }
 .info a:hover{
  color: red;
