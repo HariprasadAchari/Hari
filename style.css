@@ -1,12 +1,8 @@
-.eagle-lake-regular {
-  font-family: "Eagle Lake", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-.sue-ellen-francisco-regular {
-  font-family: "Sue Ellen Francisco", serif;
-  font-weight: 400;
-  font-style: normal;
+*{  
+  font-family: 'Kalam', cursive;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
 }
 
 html{
