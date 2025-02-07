@@ -1,8 +1,9 @@
-*{  
-  font-family: 'Kalam', cursive;
-    text-transform: uppercase;
-    margin: 0;
-    padding: 0;
+
+.caveat-<uniquifier> {
+  font-family: "Caveat", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 html{
